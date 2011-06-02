@@ -10,6 +10,7 @@ Ruby
   * animal game
   * poker
   * blackjack
+  * command line ascii racer
 * todo list manager
 * plaintext/pdf to epub
 * programming tutorial
